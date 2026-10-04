@@ -66,7 +66,7 @@
     <td>🥉 <b>3rd Place</b> — 2nd Operations Command Commander's Cup DroneBot Combat Competition<br><sub>제2작전사령관배 드론봇 전투경연대회 3위</sub></td>
   </tr>
   <tr>
-    <td width="70" align="center"><b>&nbsp;</b></td>
+    <td width="70" align="center"><b>2025</b></td>
     <td>🥇 <b>1st Place</b> — ROS 2 Autonomous Robot Control Training Camp<br><sub>ROS2 자율주행 로봇제어 실무 교육 캠프 1위</sub></td>
   </tr>
 </table>
