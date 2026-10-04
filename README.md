@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://sites.google.com/view/kit-ssc"><img src="https://img.shields.io/badge/Lab-AIAS%20Lab-005C94?style=for-the-badge&logo=googlesites&logoColor=white" /></a>
   <a href="mailto:choding860@gmail.com"><img src="https://img.shields.io/badge/Email-choding860%40gmail.com-00A3DF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AkimaraYouki/SummerProject"><img src="https://img.shields.io/badge/Project-Open%20Duck%20Mini-005C94?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/AkimaraYouki/SummerProject"><img src="https://img.shields.io/badge/Project-KIT--duck-005C94?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br>
@@ -77,12 +77,13 @@
 
 <table>
   <tr>
-    <td width="200" align="center"><b><a href="https://github.com/AkimaraYouki/SummerProject">Open Duck Mini V2</a></b><br><sub>RL bipedal walking</sub></td>
+    <td width="200" align="center"><b><a href="https://github.com/AkimaraYouki/SummerProject">KIT-duck</a></b><br><sub>RL bipedal walking</sub></td>
     <td>
       Reinforcement-learned walking for a 2.9 kg bipedal robot driven by 14 low-torque servos
       (Dynamixel XM430, 4.1 N·m stall), from simulation to the real robot.<br>
       <sub>NVIDIA Isaac Lab · PPO on 4,096 parallel envs · onboard ONNX inference on Jetson Orin Nano ·
-      90+ policy variants compared under a repeated-measurement noise rule</sub>
+      90+ policy variants compared under a repeated-measurement noise rule ·
+      hardware based on the open-source Open Duck Mini V2</sub>
     </td>
   </tr>
   <tr>
