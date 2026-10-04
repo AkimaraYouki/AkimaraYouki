@@ -46,12 +46,30 @@
 
 <br>
 
-## 🏆 Competitions
+## 🏆 Awards & Competitions
 
-```
-2026  🏅  KSPE 11th Creative Engineering Competition — Finalist
-          Oral & poster presentation · Dec 2026 · Team AIAS
-```
+<table>
+  <tr>
+    <td width="70" align="center"><b>2026</b></td>
+    <td>🏅 <b>Finalist</b> — KSPE 11th Creative Engineering Competition · oral &amp; poster, Dec 2026 · Team AIAS<br><sub>한국정밀공학회 제11회 창의경진대회 본선 진출</sub></td>
+  </tr>
+  <tr>
+    <td width="70" align="center"><b>2025</b></td>
+    <td>🏆 <b>Top Excellence Award</b> — Capstone Design Competition, KSMPE Fall Conference<br><sub>한국기계가공학회 추계학술대회 캡스톤디자인 경진대회 최우수상</sub></td>
+  </tr>
+  <tr>
+    <td width="70" align="center"><b>2025</b></td>
+    <td>🥇 <b>1st Place</b> — Gyeongkuk National University Autonomous Driving Competition<br><sub>국립경국대학교 자율주행 대회 1위</sub></td>
+  </tr>
+  <tr>
+    <td width="70" align="center"><b>2025</b></td>
+    <td>🥉 <b>3rd Place</b> — 2nd Operations Command Commander's Cup DroneBot Combat Competition<br><sub>제2작전사령관배 드론봇 전투경연대회 3위</sub></td>
+  </tr>
+  <tr>
+    <td width="70" align="center"><b>&nbsp;</b></td>
+    <td>🥇 <b>1st Place</b> — ROS 2 Autonomous Robot Control Training Camp<br><sub>ROS2 자율주행 로봇제어 실무 교육 캠프 1위</sub></td>
+  </tr>
+</table>
 
 <br>
 
