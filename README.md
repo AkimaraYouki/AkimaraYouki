@@ -86,6 +86,14 @@
     </td>
   </tr>
   <tr>
+    <td align="center"><b><a href="https://github.com/AkimaraYouki/Summercamp">BipedalWalker Hardcore</a></b><br><sub>deep RL · TD3</sub></td>
+    <td>
+      Solved BipedalWalkerHardcore-v3 — stairs, pits and stumps regenerated every episode — with TD3.
+      Best policy: <b>83 % solve rate, 12 % fall rate</b> over 100 fixed-seed evaluation episodes.<br>
+      <sub>PyTorch · 16 training runs distilled into 5 single-variable recipes · TD3 vs SAC / PPO / DDPG comparison · team project</sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b><a href="https://github.com/AkimaraYouki/perseverance">PERSEVERANCE</a></b><br><sub>wheeled-biped robot</sub></td>
     <td>
       Gen2 wheeled-biped research robot.<br>
