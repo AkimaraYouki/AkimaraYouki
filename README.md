@@ -51,6 +51,10 @@
 <table>
   <tr>
     <td width="70" align="center"><b>2026</b></td>
+    <td>🥈 <b>2nd Place</b> — 2nd Operations Command Commander's Cup DroneBot Combat Competition · with <a href="https://github.com/AkimaraYouki/perseverance">PERSEVERANCE</a><br><sub>제2작전사령관배 드론봇 전투경연대회 2위 — 바퀴형 이족 로봇으로 지정 전투원 추종 · 합판 계단 점프</sub></td>
+  </tr>
+  <tr>
+    <td width="70" align="center"><b>2026</b></td>
     <td>🏅 <b>Finalist</b> — KSPE 11th Creative Engineering Competition · oral &amp; poster, Dec 2026 · Team AIAS<br><sub>한국정밀공학회 제11회 창의경진대회 본선 진출</sub></td>
   </tr>
   <tr>
@@ -97,8 +101,11 @@
   <tr>
     <td align="center"><b><a href="https://github.com/AkimaraYouki/perseverance">PERSEVERANCE</a></b><br><sub>wheeled-biped robot</sub></td>
     <td>
-      Gen2 wheeled-biped research robot.<br>
-      <sub>ROS 2 Jazzy · Jetson Orin Nano · CubeMars AK actuators</sub>
+      Wheeled-biped robot with four-bar legs — <b>2nd place, 2026 DroneBot Combat Competition</b>.
+      Balances on two wheels with gain-scheduled LQR + virtual model control, jumps steps (CMA-ES-tuned jump state machine),
+      and follows one designated person by camera without markers.<br>
+      <sub>ROS 2 Jazzy · Jetson Orin Nano · CubeMars AK actuators · Isaac Lab sim-to-real (one controller spec, C++ port) ·
+      YOLO11-pose + ByteTrack + OSNet ReID (TensorRT) · LiDAR + Nav2</sub>
     </td>
   </tr>
 </table>
