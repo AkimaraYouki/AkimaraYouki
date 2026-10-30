@@ -51,7 +51,7 @@
 <table>
   <tr>
     <td width="70" align="center"><b>2026</b></td>
-    <td>🥈 <b>2nd Place</b> — 2nd Operations Command Commander's Cup DroneBot Combat Competition · with <a href="https://github.com/AkimaraYouki/perseverance">PERSEVERANCE</a><br><sub>제2작전사령관배 드론봇 전투경연대회 2위 — 바퀴형 이족 로봇으로 지정 전투원 추종 · 합판 계단 점프</sub></td>
+    <td>🥈 <b>2nd Place (Robot, Civilian Division)</b> — 4th 2nd Operations Command Commander's Cup DroneBot Combat Competition · Team AXIS · robot designed &amp; built:  <a href="https://github.com/AkimaraYouki/perseverance">PERSEVERANCE</a><br><sub>제4회 제2작전사령관배 드론봇 전투경연대회 로봇 2등 (민간부, 경상북도지사상) — 로봇 설계·제작·제어 담당, 바퀴형 이족 로봇으로 지정 전투원 추종 · 합판 계단 점프</sub></td>
   </tr>
   <tr>
     <td width="70" align="center"><b>2026</b></td>
